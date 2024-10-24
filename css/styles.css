@@ -1,0 +1,11 @@
+.modal-body {
+    padding-top: 10rem !important;
+    padding-bottom: 10rem !important;
+}
+
+@media (max-width: 768px) {
+    .modal-body {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+}
